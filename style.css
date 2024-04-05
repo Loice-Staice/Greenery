@@ -1,5 +1,7 @@
 *{
-    /* justify-content: center; */
+    justify-content: center;
+    font-size: large;
+    align-items: center;
 }
 #navbar{
     display: flex;
@@ -10,6 +12,12 @@
     gap: 30%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    
+}
+.all{
+    text-align: center;
+}
+.fea{
+    text-align: center;
 }
 #first{
     display: flex;
@@ -30,4 +38,38 @@
 }
 .gravida{
     display: flex;
+}
+.featured{
+    display: flex;
+    /* padding-left: 100px; */
+    gap: 200px;
+    margin-left: 250px;
+}
+.living{
+    background-image: url(photos/image15.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    justify-content: center;
+    height: 50vh;
+}
+.display{
+    position: relative;
+}
+.buttons{
+    display: flex;
+    gap: 100px;
+}
+.flowers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flowers1{
+    display: flex;
+    justify-content: center;
+}
+.flowers2{
+    display: flex;
+    justify-content: center;
 }
