@@ -1,0 +1,33 @@
+*{
+    /* justify-content: center; */
+}
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+}
+#nav{
+    display: flex;
+    gap: 30%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+#first{
+    display: flex;
+    gap: 30%;
+}
+.second{
+    display: flex;
+}
+.three{
+    display: flex;
+}
+.cactus{
+    display: flex;
+    padding-left: 70px;
+}
+.auctor{
+    display: flex;
+}
+.gravida{
+    display: flex;
+}
