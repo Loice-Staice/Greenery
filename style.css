@@ -11,7 +11,11 @@
     display: flex;
     gap: 30%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-   
+     
+}
+.icon{
+    padding-left: 300px;
+    gap: 80px;
 }
 .all{
     text-align: center;
@@ -23,6 +27,9 @@
     display: flex;
     gap: 30%;
 }
+.bigauctor{
+    display: flex;
+}
 .second{
     display: flex;
 }
@@ -32,6 +39,15 @@
 .cactus{
     display: flex;
     padding-left: 70px;
+}
+.tree{
+    font-size: 30px;
+}
+.latestb{
+    font-size: 30px;
+}
+.grow{
+    font-size: 30px;
 }
 .auctor{
     display: flex;
@@ -72,4 +88,39 @@
 .flowers2{
     display: flex;
     justify-content: center;
+}
+.cactus{
+    display: flex;
+    align-items: center;
+}
+#latest{
+    display: flex;
+}
+.clients{
+    display: flex;
+}
+.love{
+    text-align: center;
+    
+}
+.we{
+    font-size: 30px;
+}
+.amazing{
+    text-align: center;
+    font-size: 30px;
+}
+.goodrange{
+    text-align: center;
+}
+.latestb{
+    text-align: center;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    gap: 15%;
+    width: 97%;
+    font-size: 20px;
+    padding: 30px;
 }
